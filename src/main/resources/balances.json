@@ -1,0 +1,22 @@
+{
+  "accounts": [
+    {
+      "accountId": "001",
+      "accountName": "Savings Account",
+      "balance": 5000,
+      "currency": "CAD"
+    },
+    {
+      "accountId": "002",
+      "accountName": "Checking Account",
+      "balance": 1200,
+      "currency": "CAD"
+    },
+    {
+      "accountId": "003",
+      "accountName": "Investment Account",
+      "balance": 20000,
+      "currency": "CAD"
+    }
+  ]
+}
