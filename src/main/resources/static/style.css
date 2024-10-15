@@ -1,5 +1,10 @@
-.dashboard {
+body {
   background-color: #f8f4e1;
+  margin: 0;
+  padding: 0;
+}
+
+.dashboard {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -498,7 +503,7 @@
 .dashboard .rectangle-2 {
   position: absolute;
   width: 1300px;
-  height: 547px;
+  height: 525px;
   top: 0;
   left: 0;
   background-color: #ede0d4;
@@ -1057,4 +1062,11 @@
   letter-spacing: 0;
   line-height: normal;
   white-space: nowrap;
+}
+
+.overlap-7 {
+  max-height: 400px;
+  /* Set a fixed height for the container */
+  overflow-y: auto;
+  /* Enable vertical scrolling */
 }

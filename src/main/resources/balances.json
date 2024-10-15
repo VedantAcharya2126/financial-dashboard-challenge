@@ -6,7 +6,7 @@
       "balance": "5000" ,
       "currency": "CAD",
       "AmountInWords": "Five Thousand",
-      "AccountNumber": "2400XXXX7658XXXX"
+      "AccountNumber": "2400XXXX7658XXX"
     },
     {
       "accountId": "002",
@@ -14,7 +14,7 @@
       "balance": 1200,
       "currency": "CAD",
       "AmountInWords": "Twelve Hundred",
-      "AccountNumber": "2400XXXX7658XXXX"
+      "AccountNumber": "2400XXXX7658XXX"
     },
     {
       "accountId": "003",
